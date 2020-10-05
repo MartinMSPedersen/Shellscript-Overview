@@ -1,7 +1,4 @@
-# Shellscript-Overview
-Various small scripts
-
-#### **My Shell-scripts gists:** ####
+# Various small scripts
 
 * [Generate Passwords](https://gist.github.com/MartinMSPedersen/e71704e28cd08e3688ddde9b05e6f54a)
 * [Add image to flac-files](https://gist.github.com/MartinMSPedersen/d3eb34751aaff91a11b93cab1b5c117d)
