@@ -1,4 +1,4 @@
-# Various small scripts
+# Various small shell scripts
 
 * [My .bashrc](https://gist.github.com/MartinMSPedersen/3c2ed2f1493cf5cc671b1589bceb33c7)
 * [Generate Passwords](https://gist.github.com/MartinMSPedersen/e71704e28cd08e3688ddde9b05e6f54a)
